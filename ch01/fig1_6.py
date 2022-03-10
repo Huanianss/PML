@@ -2,7 +2,7 @@ from scipy.io import loadmat
 import matplotlib.pyplot as plt
 import numpy as np
 
-data = loadmat('./data/moteData.mat')
+data = loadmat('../data/moteData.mat')
 X = data['X']
 y = data['y']
 
