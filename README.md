@@ -6,6 +6,6 @@ https://www.ixigua.com/7072369654764995102
 
 ### 欢迎关注
 知乎
-<img src="./fig/zhihu.jpg" style="zoom:80%;" />
+<img src="./fig/zhihu.jpg" style="zoom:20%;" />
 微信公众号 深度无监督学习
 ![](./fig/wechat.jpg)
