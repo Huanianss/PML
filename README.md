@@ -2,7 +2,14 @@
 non-official implementation of "Probabilistic Machine Learning, Kevin P. Murphy, 2022"
 
 ## 代码视频讲解链接
+
+### 西瓜视频
+
 https://www.ixigua.com/7072369654764995102
+
+### B站
+
+https://space.bilibili.com/402888365/channel/collectiondetail?sid=587048
 
 ### 欢迎关注
 知乎
